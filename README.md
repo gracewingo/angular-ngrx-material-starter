@@ -1,5 +1,5 @@
 # Angular, ngrx and Angular Material Starter 
-by [@tomastrajan](https://twitter.com/tomastrajan)
+forked from [@tomastrajan](https://twitter.com/tomastrajan)
 
 [![license](https://img.shields.io/github/license/tomastrajan/angular-ngrx-material-starter.svg)](https://github.com/tomastrajan/angular-ngrx-material-starter/blob/master/LICENSE) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![Build Status](https://travis-ci.org/tomastrajan/angular-ngrx-material-starter.svg?branch=master)](https://travis-ci.org/tomastrajan/angular-ngrx-material-starter) [![Twitter Follow](https://img.shields.io/twitter/follow/tomastrajan.svg?style=social&label=Follow)](https://twitter.com/tomastrajan)
 
@@ -14,17 +14,13 @@ by [@tomastrajan](https://twitter.com/tomastrajan)
   * [Useful Commands](#useful-commands)
   * [Make It Your Own](#make-it-your-own)
   * [Learning Materials](#learning-materials)
-  * [List of Projects Built Using This Starter](https://github.com/tomastrajan/angular-ngrx-material-starter/blob/master/BUILT_WITH.md)
   * [Features](#features)
   * [Stack](#stack)
-  * [Code of Conduct](https://github.com/tomastrajan/angular-ngrx-material-starter/blob/master/CODE_OF_CONDUCT.md)
-  * [Contributors Guide](https://github.com/tomastrajan/angular-ngrx-material-starter/blob/master/CONTRIBUTING.md)
-  * [Changelog](https://github.com/tomastrajan/angular-ngrx-material-starter/blob/master/CHANGELOG.md) ( get notified about the newest releases, [follow Release Butler](https://twitter.com/releasebutler) on Twitter )
 
 
 ## Getting started
 ```bash
-git clone https://github.com/tomastrajan/angular-ngrx-material-starter.git new-project
+git clone https://github.com/woodke/angular-ngrx-material-starter.git new-project
 cd new-project
 npm install
 npm start
