@@ -31,7 +31,7 @@ export type SettingsActions =
 export const NIGHT_MODE_THEME = 'BLACK-THEME';
 
 export const initialState: SettingsState = {
-  theme: 'DEFAULT-THEME',
+  theme: 'BLACK-THEME',
   autoNightMode: false
 };
 
