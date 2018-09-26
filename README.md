@@ -20,7 +20,7 @@ forked from [@tomastrajan](https://twitter.com/tomastrajan)
 
 ## Getting started
 ```bash
-git clone https://github.com/woodke/angular-ngrx-material-starter.git new-project
+git clone https://github.com/gracewingo/angular-ngrx-material-starter.git new-project
 cd new-project
 npm install
 npm start
